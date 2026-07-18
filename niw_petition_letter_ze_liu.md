@@ -751,7 +751,255 @@ advocacy.
 
 #### (b) Ability to refine effective practices
 
-> **TODO**
+Ms. Liu's practice-refinement work grew out of a practical problem, not a desire
+to create more paperwork. On a crowded public-defense calendar, a file can look
+ready for negotiation even though a report refers to a recording that was never
+produced, a newly identified witness creates a conflict that was not visible at
+assignment, or an offer that appears favorable in terms of jail time carries a
+far more serious consequence for the particular client. The danger is often not
+that counsel is unaware of the law. It is that a decisive fact, deadline, or
+legal issue surfaces too late to be useful.
+
+Ms. Liu responded by building a connected case-review system around the points
+at which information is most likely to be lost. A matter does not simply move
+from one court date to the next. It passes through defined decision gates:
+conflict clearance; urgent-risk screening; client and case mapping; discovery
+inventory; evidence and constitutional review; resolution analysis; courtroom
+preparation; and, when resolution would not protect the client's interests,
+trial preparation. Each gate produces a concrete work product—a clearance
+record, a priority flag, an elements-to-proof chart, an outstanding-discovery
+entry, an issue list, a plea comparison, or a hearing plan. This structure lets
+her manage hundreds of assignments without treating any client as merely one
+more file on the calendar. (Exhibits 26–27)
+
+##### Intake and Triage: Building the Case Correctly from the First Review
+
+Ms. Liu's new-matter workflow begins with an assignment-to-resolution map. The
+first page records the court, charge, statutory elements, custody status, next
+hearing, known deadlines, release or no-contact conditions, related cases, and
+the client's immediate objective. It also asks what cannot safely wait until the
+next scheduled meeting: a jail visit, an expiring offer, preservation of video,
+an interpreter, medical or treatment continuity, or contact with counsel in
+another jurisdiction. The first client interview then develops a chronology,
+identifies potential witnesses and records, distinguishes firsthand facts from
+matters requiring investigation, and records the client's priorities before a
+litigation or negotiation strategy is selected.
+
+This order matters. Consider a file that appears to involve a routine
+misdemeanor but also imposes a no-contact order that prevents the client from
+returning home. The charge label alone does not reveal that the client's housing,
+employment, childcare, and ability to comply with release conditions may depend
+on immediate action. Under Ms. Liu's workflow, those consequences are captured
+at intake and become part of the first release and case-strategy analysis; they
+are not discovered after the client has already lost housing or accepted an
+offer simply to end the restriction. Likewise, when a client reports that a
+store, apartment building, or nearby residence may hold surveillance footage,
+the workflow converts that fact into a preservation task instead of leaving it
+buried in interview notes until the footage is overwritten.
+
+Ms. Liu also supplements the office's assignment-level conflict process with a
+continuing, matter-specific conflict check. Her review does not stop with the
+client's name on the charging document. It includes known aliases, the alleged
+victim or complainant, co-defendants, principal witnesses, related case numbers,
+and substantially related matters. A possible match is classified according to
+the risk it presents—direct adversity, a former-client confidentiality concern,
+co-defendant adversity, or a connection to another pending matter—and is
+referred for supervisory review before Ms. Liu proceeds with work that could
+compromise loyalty or confidentiality.
+
+Crucially, the check is not performed only once. Supplemental reports,
+body-worn-camera recordings, and client interviews often reveal names that did
+not appear in the original complaint. When that happens, the new participant
+triggers a renewed conflict review. Thus, if a witness first appears under an
+alias in a recording, the system does not assume that the initial clearance
+remains sufficient. It records the name variation, the person's role, the date
+of the renewed search, and whether the matter was cleared or escalated. This
+continuing review catches a risk at the moment it becomes visible, before
+confidential strategy is developed around a person whose relationship to the
+office has not been evaluated.
+
+The intake map also contains a heightened-risk and heightened-consequence
+screen. Ms. Liu uses distinct flags for: detained clients with urgent liberty,
+medical, or evidence-preservation needs; domestic-violence matters involving
+no-contact orders or family-connected consequences; repeat-DUI and other cases
+carrying mandatory penalties; clients with potential immigration consequences;
+clients whose mental-health, competency, cognitive, disability, substance-use,
+language, or literacy needs affect communication or case decisions; matters
+involving unusually serious housing, employment, licensing, driving, firearm,
+or registration consequences; and clients with holds, probation exposure, or
+cases pending in multiple jurisdictions. The flags are cumulative—a detained,
+limited-English-proficient client with another pending case is not reduced to a
+single category.
+
+Each flag is tied to an action. A custody flag moves client contact and release
+planning forward. A language or disability flag requires an interpreter or
+appropriate communication accommodation. A potential immigration consequence
+must be identified and, where necessary, referred for qualified consultation
+before a plea recommendation is made. A repeat-DUI flag triggers review of prior
+history, mandatory exposure, licensing consequences, treatment records, and the
+DUI-specific evidence. A multi-jurisdiction flag triggers a master chart of the
+courts, counsel, charges, holds, offer deadlines, and aggregate sentencing
+exposure. The purpose is not to label clients; it is to identify the task that
+ordinary case scheduling would otherwise address too late.
+
+##### Merits and Resolution: Replacing Impressionistic Review with Recorded Analysis
+
+Once urgent matters are controlled, Ms. Liu uses an evidence-review checklist
+that tests the case in two directions. First, she reviews the record
+horizontally, reconstructing the event as a timeline: who observed what, when
+each statement was made, when each item was collected, and whether the police
+narrative, witness accounts, photographs, recordings, dispatch information, and
+later reports fit together. Second, she reviews it vertically against each
+charged count. Every statutory element is placed beside the State's asserted
+proof, the source of that proof, contradictory or defense evidence,
+admissibility and foundation concerns, missing information, and the next task.
+An officer's conclusion is therefore not treated as a substitute for the facts
+needed to prove the element.
+
+The checklist requires Ms. Liu to examine the underlying material, not merely
+the report's description of it. For recordings, she checks whether the complete
+file was produced, whether it is viewable, whether timestamps and sequencing
+match the written narrative, and whether the recording actually supports the
+conduct attributed to the client. For statements, she compares the witness's
+opportunity to observe, the timing and evolution of the account, internal and
+external inconsistencies, possible impeachment, hearsay, and confrontation
+questions. For photographs, physical evidence, or testing materials, she asks
+what the item depicts or measures, who can establish its foundation, whether
+collection and custody are adequately documented, and which element it actually
+proves. The resulting entry must lead to a next action: investigation, targeted
+discovery, legal research, a motion, a negotiation point, or trial preparation.
+
+Separate from the merits checklist, Ms. Liu established a defense-side
+discovery receipt, completeness, and deficiency-escalation protocol. Its ledger
+records the item expected, where another document refers to it, the source or
+custodian, the date requested, the date received, whether the file is complete
+and accessible, the date reviewed, the follow-up date, and the procedural
+response if it remains outstanding. Supplemental productions and corrected
+versions are logged separately so that a new upload does not silently replace
+an earlier version or escape substantive review.
+
+The distinction between “referenced” and “received and reviewed” is deliberate.
+If two officers are identified in a report but the production contains only one
+body-worn-camera file, the second recording remains open on the ledger. If a
+narrative says “see attached photographs” but no photographs can be opened, the
+entry is not marked complete. If a witness refers to a 911 call, dispatch log,
+surveillance recording, or supplemental statement that has not been produced,
+the system generates a specific follow-up and, where appropriate, a preservation
+request or request for court relief. The same ledger tracks defense-side
+disclosure obligations and any confidentiality, protective-order, or redaction
+requirements, preventing a tool designed to enforce completeness from creating
+a separate disclosure error.
+
+Ms. Liu reviews the same factual timeline through a constitutional and
+pretrial-motion checklist. The worksheet asks, as applicable: What facts
+supported the initial stop or seizure? When did a consensual encounter become a
+detention? Was the detention expanded or prolonged, and on what basis? What
+supported the arrest? Was a search conducted under a warrant, consent, or a
+claimed exception, and did it remain within the permitted scope? When did
+questioning become custodial, what warnings were given, and was any statement
+voluntary? Were favorable or impeaching materials disclosed and preserved? Are
+there identification, confrontation, access-to-counsel, charging-sufficiency, or
+time-for-trial concerns? The review accounts for both federal protections and
+the applicable protections and procedures under Washington law.
+
+The worksheet does not mechanically declare a constitutional violation. For
+each flagged event it records the trigger fact, the information still needed,
+the legal question requiring research, the available procedural vehicle, the
+deadline, and the possible remedy. A report's use of the word “consent,” for
+example, does not end the analysis. The chronology must show who requested
+consent, what was said, whether the client was already detained, who had
+authority, and whether the search stayed within the alleged consent. In this
+way, constitutional review becomes a timely investigation or motion task rather
+than a doctrine recalled only after plea discussions have broken down.
+
+Ms. Liu's plea-decision and negotiation framework brings these work products
+together. It compares five dimensions: (1) whether the State can prove every
+element; (2) the admissibility and reliability of the evidence; (3) unresolved
+constitutional, procedural, and disclosure issues; (4) direct, mandatory, and
+collateral consequences under the original charge, the offer, and realistic
+litigation outcomes; and (5) the client's objectives, custody pressure, risk
+tolerance, mitigation, treatment history, and feasible alternatives. For a
+client with related cases, a sixth dimension maps aggregate exposure and the
+possibility of coordinated or concurrent resolution.
+
+An offer is not classified as favorable merely because it promises fewer days
+in jail. A time-served proposal may produce immediate release while creating an
+immigration, licensing, housing, employment, treatment, firearm, or probation
+consequence that matters more to the client. Conversely, a client may rationally
+place immediate liberty above longer-term litigation risk. Ms. Liu's framework
+makes both the legal analysis and the client's priorities visible. It records
+the offer and its expiration, what discovery remains incomplete, the range of
+outcomes discussed, the mitigation supporting a counterproposal, the concrete
+alternative requested, and the client's decision. The attorney structures and
+explains the choices; the client retains the decision whether to accept a plea.
+
+This framework also changes the content of negotiation. Instead of asking for
+general leniency, Ms. Liu can present a counterproposal built from the proof
+chart, a specific evidentiary or procedural weakness, the client's verified
+mitigation, and a disposition designed to address the prosecutor's stated
+concerns. In a treatment-related matter, for example, the proposal can include
+program acceptance, transportation, supervision, court-return, and progress
+reporting information. In a multi-court matter, it can show how dates, holds,
+custodial credit, and treatment participation interact across jurisdictions.
+The proposal thus answers foreseeable objections rather than leaving the court
+or prosecutor to fill operational gaps.
+
+##### Litigation and Institutional Memory: Turning Preparation into a Reusable Method
+
+When negotiation is not justified, the file moves onto a separate litigation
+track. Ms. Liu prepares a concise hearing plan stating the precise relief sought,
+who bears the burden, the controlling factual and legal question, the proof
+needed, the State's likely response, and the record that must be preserved. Each
+witness outline is organized into short issue-based chapters rather than a long
+undifferentiated list of questions. Each chapter identifies its objective, the
+source for the fact, the anticipated answer, and the exact prior statement,
+recording timestamp, photograph, or document available for impeachment or
+corroboration.
+
+The plan includes a primary and fallback route. If a judge excludes an exhibit,
+limits a line of questioning, or rejects a motion, Ms. Liu identifies what
+portion of the defense theory remains available, what offer of proof or objection
+is needed, and how the next witness or argument must change. Her closing theory
+then returns to the burden and the missing link in the State's admissible proof,
+rather than attempting to repeat every factual disagreement. The same method
+applies to nontrial appearances. A release hearing, for example, is prepared
+around the court's likely concerns—appearance, supervision, safety, treatment
+continuity, and return logistics—and the documents or witnesses that answer
+each concern.
+
+Ms. Liu consolidated these tools into a working trial manual so that the next
+case does not begin from memory alone. The manual includes the intake and
+conflict protocol; the heightened-risk screen; client-interview and chronology
+templates; the discovery ledger; the elements-and-evidence matrix; the
+constitutional issue worksheet; the plea-comparison framework; investigation
+and mitigation prompts; motion and hearing preparation; witness and exhibit
+planning; evidentiary foundations and objections; voir dire; opening statement;
+direct and cross-examination; jury instructions and verdict forms; closing
+argument; sentencing; preservation of issues; and post-matter review. It is a
+working manual, not a set of canned arguments, and it remains subject to the
+facts, governing law, local rules, and the client's decisions in each matter.
+
+Most importantly, the manual contains a feedback step. After a significant
+motion, negotiation, global resolution, or trial, Ms. Liu asks what information
+arrived too late, which checklist prompt exposed the issue, which anticipated
+objection proved correct, and what should be moved earlier or stated more
+clearly next time. If a police narrative referred to a missing digital item, the
+next version of the disclosure ledger can require source-by-source
+reconciliation. If a late evidentiary ruling forced a change in witness order,
+the trial section can add a foundation and contingency column. If concrete
+treatment logistics overcame resistance to release, the mitigation section can
+require those logistics before the motion is filed. The lesson is preserved as
+a revised step, not left as an unrecorded instinct belonging only to the lawyer
+who handled that case.
+
+These practices demonstrate the difference between handling cases repeatedly
+and refining legal practice. Ms. Liu has identified where a high-volume defense
+file can fail, designed control points for those risks, connected each control
+point to an action, and created a method for carrying lessons from one matter
+into the next. The resulting system does not replace individualized advocacy;
+it protects the time and information needed to exercise it. That capacity
+directly supports her proposed endeavor to develop effective, evidence-based,
+and replicable practices for resource-constrained indigent-defense systems.
 
 #### (c) Ability to disseminate those practices
 
