@@ -5,19 +5,7 @@
 ### Firmwide Practice Standards for High-Volume Indigent Defense
 
 **Author:** Ze Liu, Attorney at Law  
-**Institutional owner:** Executive Director / Managing Attorney  
-**Policy administrator:** ____________________  
-**Document classification:** Internal—Confidential Practice-Management Document  
-**Version:** 2.0  
-**Status:** Draft for management, ethics, information-security, and employment review  
-**Proposed effective date:** ____________________  
-**Review cycle:** At least annually and upon a material change in governing authority  
-**Next scheduled review:** ____________________
-
-> **Release condition.** This draft does not become firm policy merely because
-> it has been circulated for review. It becomes effective only after the
-> approvals below are completed, an effective date is assigned, and the
-> controlled version is published in the office's approved policy location.
+**Status:** Draft for management, ethics, information-security, and employment review
 
 ### Document control
 
